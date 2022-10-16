@@ -6,7 +6,7 @@
 
  Projeto feito durante o evento ignite lab da @rocketseat
  
- <p>Caso tenham interesse aos desafios acessem o <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1">figma</a> </p>
+ <p>Caso tenham interesse aos desafios acessem o <a href="https://www.figma.com/file/TeiYgSUJGQXt9gLFPNN4gd/Ignite-Lab-Design-System?node-id=0%3A1">figma</a> </p>
 
 ## Preview Desktop
 
@@ -15,7 +15,16 @@
 # Tecnologias utilizadas
 
 ## Front end
- 
+- HTML
+- Figma 
+- ViteJS;
+- Typescript;
+- React;
+- StoryBook;
+- Radix UI;
+- Phosphor-React;
+- TailwindCSS;
+- clsx.
 
 ## Implantação em produção
 - 🚧
